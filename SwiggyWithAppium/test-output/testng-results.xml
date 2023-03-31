@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T19:08:19 IST" name="Suite" finished-at="2023-03-13T19:21:31 IST" duration-ms="791500">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T19:08:19 IST" name="Firefox" finished-at="2023-03-13T19:08:53 IST" duration-ms="33197">
+      <class name="TestScripts.VerifySwiggyTitleFirefox">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:TestScripts.VerifySwiggyTitleFirefox@2794eab6]" started-at="2023-03-13T19:08:19 IST" name="launchApplication" finished-at="2023-03-13T19:08:50 IST" duration-ms="30996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestScripts.VerifySwiggyTitleFirefox@2794eab6]" started-at="2023-03-13T19:08:51 IST" name="verifyTitle" finished-at="2023-03-13T19:08:51 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="enterLocation()[pri:1, instance:TestScripts.VerifySwiggyTitleFirefox@2794eab6]" started-at="2023-03-13T19:08:51 IST" name="enterLocation" finished-at="2023-03-13T19:08:51 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLocation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.VerifySwiggyTitleFirefox@2794eab6]" started-at="2023-03-13T19:08:51 IST" name="closeBrowser" finished-at="2023-03-13T19:08:53 IST" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.VerifySwiggyTitleFirefox -->
+    </test> <!-- Firefox -->
+    <test started-at="2023-03-13T19:08:19 IST" name="Chrome" finished-at="2023-03-13T19:21:31 IST" duration-ms="791500">
+      <class name="TestScripts.VerifySwiggyTitleChrome">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:TestScripts.VerifySwiggyTitleChrome@659499f1]" started-at="2023-03-13T19:08:19 IST" name="launchApplication" finished-at="2023-03-13T19:21:30 IST" duration-ms="791013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestScripts.VerifySwiggyTitleChrome@659499f1]" started-at="2023-03-13T19:21:31 IST" name="verifyTitle" finished-at="2023-03-13T19:21:31 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="enterLocation()[pri:1, instance:TestScripts.VerifySwiggyTitleChrome@659499f1]" started-at="2023-03-13T19:21:31 IST" name="enterLocation" finished-at="2023-03-13T19:21:31 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLocation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.VerifySwiggyTitleChrome@659499f1]" started-at="2023-03-13T19:21:31 IST" name="closeBrowser" finished-at="2023-03-13T19:21:31 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.VerifySwiggyTitleChrome -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

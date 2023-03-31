@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T19:56:40 IST" name="Default suite" finished-at="2023-03-03T19:57:13 IST" duration-ms="32468">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T19:56:40 IST" name="Default test" finished-at="2023-03-03T19:57:13 IST" duration-ms="32468">
+      <class name="Demo.SpinnerDemo1">
+        <test-method is-config="true" signature="LaunchApp()[pri:0, instance:Demo.SpinnerDemo1@82de64a]" started-at="2023-03-03T19:56:40 IST" name="LaunchApp" finished-at="2023-03-03T19:56:58 IST" duration-ms="17558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method signature="selectValuesFromDropDown()[pri:0, instance:Demo.SpinnerDemo1@82de64a]" started-at="2023-03-03T19:56:58 IST" name="selectValuesFromDropDown" finished-at="2023-03-03T19:57:12 IST" duration-ms="14228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectValuesFromDropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Demo.SpinnerDemo1@82de64a]" started-at="2023-03-03T19:57:12 IST" name="tearDown" finished-at="2023-03-03T19:57:13 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Demo.SpinnerDemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
